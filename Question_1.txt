@@ -1,0 +1,3 @@
+t=('xyz',2,2.0,True)
+print(t)
+print(len(t))

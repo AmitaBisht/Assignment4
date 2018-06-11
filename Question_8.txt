@@ -1,0 +1,11 @@
+s=("MISSISSIPPI")
+a=s.count("S")
+b=s.count("M")
+c=s.count("I")
+d=s.count("P")
+dict={}
+dict["S"]=a
+dict["M"]=b
+dict["I"]=c
+dict["P"]=d
+print(dict)

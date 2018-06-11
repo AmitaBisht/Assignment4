@@ -1,0 +1,5 @@
+tuple1=(100,500,200,300)
+tuple2=(300,200,400,500,600)
+
+print("largest element of tuple",max(tuple1))
+print("smallest element of tuple",min(tuple2))
