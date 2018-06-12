@@ -1,2 +1,56 @@
-dic={10:'A',20:'B',25:'C',23:'D',34:'E',21:'F',43:'G',45:'H',43:'I',24:'J'}
-print(sort.(dic))
+dict={}
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+
+Name=input("Name: ")
+Marks= input("Marks: ")
+dict[Name]=Marks
+
+print(dict)
+
+s=sorted(dic.items(),key=lambda x:x[1])
+print(s)

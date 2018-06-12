@@ -1,2 +1,9 @@
-t=((2)*3)
-print(t)
+t=(2,4,5,8,9)
+product=t[0]*t[1]*t[2]*t[3]*t[4]
+print(product)
+
+
+
+t=(2,4,5,8,9)
+product=(2*4*5*8*9)
+print(product)
